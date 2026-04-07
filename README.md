@@ -8,6 +8,9 @@ With this app you can write and store your task in your android phone
 - **make completed tasks** you can else make completed tasks or restart **completed** tasks.
 ## Installation 
 download aop from release section and install it to your android device 
- Note: this app is under pre-release so report any bugs to my email 
+
+> Note: this app is under pre-release so report any bugs to my email 
 
 [Email Developer](mailto:nysonben1@gmail.com)
+
+
